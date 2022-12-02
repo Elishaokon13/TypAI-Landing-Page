@@ -145,11 +145,11 @@ export default function Example() {
                             </div>
                             <div>
                                 <h1 className="text-4xl font-bold tracking-tight sm:text-center sm:text-6xl">
-                                    Data to enrich your online business
+                                Say ‘goodbye’ to the poor contents for good
                                 </h1>
                                 <p className="mt-6 text-lg leading-8 text-gray-600 sm:text-center">
-                                    Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt
-                                    amet fugiat veniam occaecat fugiat aliqua.
+                                Experience the full power of an AI content generator that delivers premium results in seconds.
+                                Write 10x faster, engage your audience, & never struggle with the poor contents again.
                                 </p>
                                 <div className="mt-8 flex gap-x-4 sm:justify-center">
                                     <a
@@ -161,7 +161,7 @@ export default function Example() {
                                             &rarr;
                                         </span>
                                     </a>
-                                    <a
+                                    {/* <a
                                         href="#"
                                         className="inline-block rounded-lg px-4 py-1.5 text-base font-semibold leading-7 text-gray-900 ring-1 ring-gray-900/10 hover:ring-gray-900/20"
                                     >
@@ -169,7 +169,7 @@ export default function Example() {
                                         <span className="text-gray-400" aria-hidden="true">
                                             &rarr;
                                         </span>
-                                    </a>
+                                    </a> */}
                                 </div>
                             </div>
                             <div className="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]">
