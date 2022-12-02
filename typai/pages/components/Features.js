@@ -14,13 +14,13 @@ const features = [
     icon: ScaleIcon,
   },
   {
-    name: 'Transfers are instant',
+    name: 'Write better content faster',
     description:
       'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
     icon: BoltIcon,
   },
   {
-    name: 'Mobile notifications',
+    name: 'Say ‘goodbye’ to the blank page',
     description:
       'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
     icon: DevicePhoneMobileIcon,
