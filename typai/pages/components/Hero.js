@@ -1,4 +1,4 @@
-/* This example requires Tailwind CSS v3.0+ */
+import AutoWritingText from './Autotyping'
 import { useState } from 'react'
 import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
@@ -144,9 +144,10 @@ export default function Example() {
                                 </div>
                             </div>
                             <div>
-                                <h1 className="text-4xl font-bold tracking-tight sm:text-center sm:text-6xl">
-                                Say ‘goodbye’ to the poor contents for good
+                                <h1 className="text-4xl font-semibold tracking-tight sm:text-center sm:text-6xl">
+                                Say ‘goodbye’ to the poor contents for <span className='text-indigo-600 inline-block'><AutoWritingText/></span>
                                 </h1>
+                                
                                 <p className="mt-6 text-lg leading-8 text-gray-600 sm:text-center">
                                 Experience the full power of an AI content generator that delivers premium results in seconds.
                                 Write 10x faster, engage your audience, & never struggle with the poor contents again.
